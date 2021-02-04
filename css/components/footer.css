@@ -1,0 +1,14 @@
+.footer {
+    background-color: #1C0118;
+    height: 300px;
+    color: red;
+    text-align: center;
+}
+
+.footer-icons {
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 500px;
+    padding: 20px;
+    list-style-type: none;
+}
